@@ -86,7 +86,7 @@ const fireWorkSound = () => {
     right.style = " animation-name: animateGate2; "
     setTimeout(() => (
         removing()
-    ), 2000)
+    ), 1000)
 
 }
 
